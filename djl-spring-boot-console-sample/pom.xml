@@ -23,7 +23,7 @@
         </dependency>
         <dependency>
             <groupId>ai.djl.spring</groupId>
-            <artifactId>djl-spring-boot-starter-mxnet-auto</artifactId>
+            <artifactId>djl-spring-boot-starter-tensorflow-auto</artifactId>
             <version>0.11-SNAPSHOT</version>
         </dependency>
         <dependency>
